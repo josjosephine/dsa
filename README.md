@@ -2,7 +2,7 @@
 
 Hey guys, I'm Josephine. 
 
-I'm currently learning Data Structure and Algorithms of UCSD on Coursera. 
+I'm currently learning Data Structure and Algorithms by UCSD on Coursera. 
 
 Here I'm gonna upload my programming practice to mark my progress.
 
@@ -50,3 +50,15 @@ I didn't put test code here for convenience.
 - [Organizaing Lottery](https://github.com/josjosephine/dsa/blob/main/AlgorithmicToolbox/Divide-and-Conquer/organizing_lottery.py)
 
 - [Quick Sort](https://github.com/josjosephine/dsa/blob/main/AlgorithmicToolbox/Divide-and-Conquer/quicksort.py)
+
+### [1.4 Dynamic Programming](https://github.com/josjosephine/dsa/tree/main/AlgorithmicToolbox/DynamicProgramming)
+  
+- [Arithmetic Expression](https://github.com/josjosephine/dsa/blob/main/AlgorithmicToolbox/DynamicProgramming/arithmetic_expression.py)
+
+- [Edit Distance](https://github.com/josjosephine/dsa/blob/main/AlgorithmicToolbox/DynamicProgramming/edit_distance.py)
+
+- [Maximum Gold](https://github.com/josjosephine/dsa/blob/main/AlgorithmicToolbox/DynamicProgramming/maximum_gold.py)
+
+- [Partition Souvenirs](https://github.com/josjosephine/dsa/blob/main/AlgorithmicToolbox/DynamicProgramming/partition_souvenirs.py)
+
+- [Primitive Calculator](https://github.com/josjosephine/dsa/blob/main/AlgorithmicToolbox/DynamicProgramming/primitive_calculator.py)
